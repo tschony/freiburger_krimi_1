@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/manuscript.js": {
-      "includeFiles": "Freiburg Klara Faller/MANUSCRIPT.md"
+      "includeFiles": "Freiburg Klara Faller/*.md"
     }
   }
 }
