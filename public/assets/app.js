@@ -24,6 +24,12 @@ function slugify(value) {
     .replace(/^-|-$/g, "");
 }
 
+function renderInlineMarkdown(value) {
+  return escapeHtml(value)
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*([^*]+)\*/g, "<em>$1</em>");
+}
+
 function renderMarkdown(markdown) {
   const lines = markdown.split("\n");
   const html = [];
@@ -31,7 +37,7 @@ function renderMarkdown(markdown) {
 
   const flushParagraph = () => {
     if (!paragraph.length) return;
-    html.push(`<p>${escapeHtml(paragraph.join(" "))}</p>`);
+    html.push(`<p>${renderInlineMarkdown(paragraph.join(" "))}</p>`);
     paragraph = [];
   };
 
@@ -50,7 +56,7 @@ function renderMarkdown(markdown) {
       const text = heading[2];
       const tag = level === 1 ? "h1" : level === 2 ? "h2" : "h3";
       html.push(
-        `<${tag} id="${slugify(text)}">${escapeHtml(text)}</${tag}>`,
+        `<${tag} id="${slugify(text)}">${renderInlineMarkdown(text)}</${tag}>`,
       );
       return;
     }
