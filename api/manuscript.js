@@ -7,6 +7,11 @@ const MANUSCRIPT_PATH = resolve(
   "Freiburg Klara Faller",
   "MANUSCRIPT.md",
 );
+const EXTRA_CHAPTERS_PATH = resolve(
+  process.cwd(),
+  "Freiburg Klara Faller",
+  "CHAPTERS_3_4.md",
+);
 
 function extractHeadings(markdown) {
   return markdown
@@ -29,6 +34,18 @@ function extractHeadings(markdown) {
     .filter(Boolean);
 }
 
+async function readManuscript() {
+  const base = await readFile(MANUSCRIPT_PATH, "utf8");
+  if (base.includes("## Kapitel 3:")) return base;
+
+  try {
+    const extra = await readFile(EXTRA_CHAPTERS_PATH, "utf8");
+    return `${base.trimEnd()}\n\n${extra.trimStart()}`;
+  } catch {
+    return base;
+  }
+}
+
 export default async function handler(req, res) {
   res.setHeader("Cache-Control", "no-store");
 
@@ -43,7 +60,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const markdown = await readFile(MANUSCRIPT_PATH, "utf8");
+    const markdown = await readManuscript();
     res.status(200).json({
       title: "Tod zwischen Kräutern",
       subtitle: "Arbeitsfassung Romanmanuskript",
