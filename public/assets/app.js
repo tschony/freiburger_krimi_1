@@ -153,10 +153,13 @@ function renderReader() {
 
   app.innerHTML = `
     <aside class="reader-nav" aria-label="Kapitel">
-      <div>
-        <p class="reader-kicker">Manuskript</p>
-        <h1>Tod zwischen Kräutern</h1>
-        <p>Arbeitsfassung</p>
+      <div class="reader-nav-header">
+        <div>
+          <p class="reader-kicker">Manuskript</p>
+          <h1>Tod zwischen Kräutern</h1>
+          <p>Arbeitsfassung</p>
+        </div>
+        <button class="icon-button nav-close" data-action="close-nav" aria-label="Kapitelmenü schließen">×</button>
       </div>
       <nav>${sectionLinks}</nav>
       <button class="secondary-button" data-action="lock">Sperren</button>
@@ -185,6 +188,14 @@ function renderReader() {
   });
   app.querySelector('[data-action="nav"]').addEventListener("click", () => {
     app.classList.toggle("nav-open");
+  });
+  app.querySelector('[data-action="close-nav"]').addEventListener("click", () => {
+    app.classList.remove("nav-open");
+  });
+  app.querySelectorAll(".chapter-link").forEach((link) => {
+    link.addEventListener("click", () => {
+      app.classList.remove("nav-open");
+    });
   });
   app.querySelector('[data-action="font-down"]').addEventListener("click", () => {
     state.fontScale = Math.max(0.9, Number((state.fontScale - 0.05).toFixed(2)));
