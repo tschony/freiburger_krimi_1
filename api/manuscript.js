@@ -7,11 +7,10 @@ const MANUSCRIPT_PATH = resolve(
   "Freiburg Klara Faller",
   "MANUSCRIPT.md",
 );
-const EXTRA_CHAPTERS_PATH = resolve(
-  process.cwd(),
-  "Freiburg Klara Faller",
-  "CHAPTERS_3_4.md",
-);
+const EXTRA_CHAPTER_PATHS = [
+  resolve(process.cwd(), "Freiburg Klara Faller", "CHAPTERS_3_4.md"),
+  resolve(process.cwd(), "Freiburg Klara Faller", "CHAPTERS_5_6.md"),
+];
 
 function extractHeadings(markdown) {
   return markdown
@@ -34,16 +33,26 @@ function extractHeadings(markdown) {
     .filter(Boolean);
 }
 
-async function readManuscript() {
-  const base = await readFile(MANUSCRIPT_PATH, "utf8");
-  if (base.includes("## Kapitel 3:")) return base;
+function firstChapterHeading(markdown) {
+  const match = /^## Kapitel \d+:.+$/m.exec(markdown);
+  return match?.[0] || null;
+}
 
-  try {
-    const extra = await readFile(EXTRA_CHAPTERS_PATH, "utf8");
-    return `${base.trimEnd()}\n\n${extra.trimStart()}`;
-  } catch {
-    return base;
+async function readManuscript() {
+  let markdown = await readFile(MANUSCRIPT_PATH, "utf8");
+
+  for (const chapterPath of EXTRA_CHAPTER_PATHS) {
+    try {
+      const extra = await readFile(chapterPath, "utf8");
+      const firstHeading = firstChapterHeading(extra);
+      if (firstHeading && markdown.includes(firstHeading)) continue;
+      markdown = `${markdown.trimEnd()}\n\n${extra.trimStart()}`;
+    } catch {
+      // Extra chapter files are optional so older deployments still work.
+    }
   }
+
+  return markdown;
 }
 
 export default async function handler(req, res) {
