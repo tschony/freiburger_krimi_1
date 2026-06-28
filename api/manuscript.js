@@ -10,6 +10,7 @@ const MANUSCRIPT_PATH = resolve(
 const EXTRA_CHAPTER_PATHS = [
   resolve(process.cwd(), "Freiburg Klara Faller", "CHAPTERS_3_4.md"),
   resolve(process.cwd(), "Freiburg Klara Faller", "CHAPTERS_5_6.md"),
+  resolve(process.cwd(), "Freiburg Klara Faller", "CHAPTERS_7_8.md"),
 ];
 
 function extractHeadings(markdown) {
