@@ -3005,3 +3005,1681 @@ Klara sagte nichts.
 Bärbel sprach den Satz so trocken aus, dass er nicht größer werden musste.
 
 "Die Frau hat nicht getrauert. Die hat vorbereitet."
+
+## Kapitel 11: Fingerhut für Fortgeschrittene
+
+Am nächsten Morgen sah Freiburg aus, als habe es beschlossen, sich aus der Sache herauszuhalten.
+
+Das Licht lag freundlich auf dem Pflaster, die Bächle liefen, die Straßenbahn klingelte am Bertoldsbrunnen mit der Geduld eines Systems, das täglich beleidigt wurde und trotzdem funktionierte. Menschen kauften Kaffee, Brötchen, Zeitungen, Basilikum. Die Stadt tat, was Städte nach einem Tod am besten konnten: weiter.
+
+Klara stand nicht an ihrem Stand.
+
+Sie stand daneben.
+
+Das war ein Unterschied, den sie sich seit sieben Minuten erklärte.
+
+Ihr Stand war teilweise freigegeben worden, aber nicht wirklich. Zwei Kisten mit unverfänglichen Kräutern hatte Lilli übernehmen dürfen. Die Blechdose mit den Stiften fehlte noch. Die vorbereiteten Tütchen fehlten. Die Waage fehlte. Auf dem Tisch lag ein Zettel der Kriminaltechnik, sachlich, korrekt, unverschämt ordentlich.
+
+Klara hielt die Hände hinter dem Rücken.
+
+Nicht, weil sie unschuldig aussah.
+
+Weil sie sonst etwas geradegerückt hätte.
+
+"Sie machen das gut", sagte Nils Ganter.
+
+Er stand neben ihr mit einem Notizblock und der Miene eines Mannes, der gelernt hatte, dass Lob bei Klara Faller gefährlich war.
+
+"Was?"
+
+"Nicht anfassen."
+
+"Das ist keine Leistung. Das ist eine Zumutung mit motorischer Kontrolle."
+
+"Trotzdem." Nils sah auf den Zettel. "Frau Hettich kommt gleich."
+
+"Sie beaufsichtigen mich?"
+
+"Ich dokumentiere Anwesenheit."
+
+"Das ist Polizistendeutsch für Beaufsichtigung."
+
+"*Ha jo.* Aber mit besserer Aktenlage."
+
+Klara sah zu ihm hinüber. Nils hatte heute keine Uniformjacke an, sondern eine unauffällige Regenjacke, obwohl kein Regen angesagt war. Menschen, die in Freiburg mit Regenjacke arbeiteten, hatten entweder Erfahrung oder ein sehr pessimistisches Verhältnis zum Himmel.
+
+"Sie haben Humor", sagte Klara.
+
+"Ich versuche, ihn nicht aktenkundig zu machen."
+
+Vom Tarek-Stand her roch es nach Kaffee, geröstetem Sesam und Joghurt. Tarek sagte nichts. Er stellte nur eine Schale Oliven so weit nach vorn, dass Klara sie hätte sehen können, ohne hinüberzugehen. Das war bei ihm Trost. Oder Bestechung. Bei türkischer Feinkost war die Grenze in Freiburg nicht abschließend geklärt.
+
+Hettich kam aus Richtung Münster, in der Hand eine schmale Mappe. Sie trug dieselbe dunkle Jacke wie am Vortag. Oder eine sehr ähnliche. Bei Hettich wirkte Kleidung nicht wiederholt, sondern konsequent.
+
+"Frau Faller."
+
+"Frau Hettich."
+
+"Sie halten Abstand."
+
+"Ich entwickle eine intime Beziehung zu Abstand."
+
+"Dann enttäuschen Sie ihn nicht."
+
+Nils sah auf seinen Block, vermutlich um ein Lächeln zu verstecken. Es gelang ihm nicht vollständig.
+
+Hettich blieb am Rand des Stands stehen. Ihr Blick ging über die freigegebenen Kisten, die fehlenden Gegenstände, die Stelle, an der Klaras Tütchenkiste gestanden hatte, und den kleinen weißen Zettel der Kriminaltechnik.
+
+"Wir haben eine vorläufige medizinische Rückmeldung", sagte sie.
+
+Klara spürte, wie der Markt um sie herum kleiner wurde.
+
+"Vorläufig", wiederholte sie.
+
+"Sehr."
+
+"Also nicht belastbar."
+
+"Belastbar genug, um Fragen zu stellen."
+
+Das war ein Satz, der in keinem Leben gute Nachrichten ankündigte.
+
+Hettich öffnete die Mappe nicht sofort. Das tat sie nie. Sie ließ Dinge gern einen Moment existieren, bevor sie sie benannte. Klara verachtete diese Technik und verstand ihren Nutzen.
+
+"Die Symptome", sagte Hettich, "passen weiterhin zu einer Störung des Herzrhythmus. Der Rechtsmediziner formuliert vorsichtig. Herr Leitner formuliert weniger vorsichtig."
+
+"Das überrascht mich nicht."
+
+"Mich auch nicht. Es hilft uns beiden nicht."
+
+Klara sah auf ihre Hände. Die Erde war inzwischen aus den Nagelrändern gewaschen, aber nicht vollständig. Ein Rest blieb immer. Wer mit Pflanzen arbeitete, bekam Sauberkeit nie ganz zurück. Normalerweise mochte sie das. Heute sah es aus wie ein Argument.
+
+"Sie wollen wieder über Fingerhut sprechen", sagte sie.
+
+"Ich will nicht", sagte Hettich. "Ich muss."
+
+Tarek stellte hinter seinem Stand eine Kanne ab. Nicht laut. Trotzdem hörte Klara es.
+
+"Digitalis", sagte Klara.
+
+Hettich sah sie an.
+
+"Ich weiß", sagte Klara. "Ich sollte jetzt nicht helfen."
+
+"Es wäre zumindest taktisch neu, wenn Sie es einmal versuchten."
+
+"Digitalis ist kein Synonym für Fingerhutvergiftung. Es ist eine Wirkstoffgruppe. Medizinisch genutzt, falsch dosiert gefährlich, in Pflanzen vorhanden, in Medikamenten kontrollierter. Oder angeblich kontrollierter."
+
+"Frau Faller."
+
+Klara schloss den Mund.
+
+Für drei Sekunden.
+
+"Entschuldigung."
+
+"War das ernst gemeint?"
+
+"Inhaltlich ja."
+
+Hettich atmete einmal langsam aus. "Es geht nicht darum, dass Sie wissen, was Digitalis ist. Das wissen viele Menschen."
+
+"Nicht genug."
+
+"Frau Faller."
+
+"Ja."
+
+Hettich zog ein Foto aus der Mappe.
+
+Nicht das Tütchen. Nicht Lenz. Nicht die Jacke.
+
+Ein Schild.
+
+Klara erkannte ihre eigene Schrift sofort. Braune Tinte, klare Linien, ein leicht zu enges g. Darunter eine getrocknete Pflanze auf einem alten Holzbrett, violettrosa Blüten, glockenförmig, schön auf eine Weise, die Kindern grundsätzlich misstraut werden musste.
+
+Fingerhut.
+
+Darunter stand:
+
+Nicht anfassen. Nicht trocknen. Nicht als Tee. Schön ist keine Unbedenklichkeitsbescheinigung.
+
+Klara sah das Foto länger an, als klug war.
+
+"Das ist von einer Kinderführung", sagte sie.
+
+"Wann?"
+
+"Letzten Sommer. Münstermarkt-Aktion. Giftpflanzen in Bauerngärten. Es war Aufklärung."
+
+"Mit Ihrem Schild."
+
+"Ja."
+
+"Mit Ihrer Handschrift."
+
+"Offensichtlich."
+
+"Mit Fingerhut."
+
+"Auf einem Foto. Nicht an meinem Stand. Nicht zum Verkauf. Nicht als Tee. Das steht sogar drauf."
+
+Hettich nahm das Foto nicht zurück.
+
+"Wer hat das Foto gemacht?" fragte Klara.
+
+"Es war auf der Seite eines lokalen Familienblogs. Außerdem auf einem Foto einer Mutter, die gestern nach dem Vorfall offenbar ihre Galerie durchgesehen hat."
+
+"Natürlich", sagte Klara.
+
+"Natürlich?"
+
+"In Freiburg gibt es für alles einen Elternblog. Sogar für korrektes Staunen vor Giftpflanzen."
+
+Nils räusperte sich. "Der Beitrag hieß 'Naturbildung mit allen Sinnen'."
+
+Klara sah ihn an.
+
+Er hob beide Hände leicht. "Ich zitiere nur."
+
+"Maximal pädagogisch unversichert", sagte Klara.
+
+Hettich schob das Foto in die Mappe zurück. "Herr Leitner wird dieses Schild interessant finden."
+
+"Weil ich Kindern gesagt habe, sie sollen keine Giftpflanzen essen?"
+
+"Weil es Ihre Kenntnisse sichtbar macht."
+
+"Kenntnisse sind kein Tatmittel."
+
+"Nein", sagte Hettich. "Aber für Herrn Leitner sind sie ein Baustein."
+
+Klara sah zum Münster. Der Stein war hell, die Figuren oben an der Fassade standen in ihrer unerreichbaren Geduld. Man erzählte sich, unter den Heiligen würden Menschen leichter lügen, weil sie glaubten, bereits beobachtet zu werden. Bärbel behauptete das. Klara hielt es für statistisch schwach und sozial nicht völlig falsch.
+
+"Es ist absurd", sagte Klara.
+
+"Das habe ich nicht bestritten."
+
+"Aber Sie führen es trotzdem."
+
+"Das ist mein Beruf."
+
+Klara dachte an früher. An Eltern, die sagten, sie wollten nur verstehen, und Schulleiter, die Verständnis so lange verwalteten, bis Verantwortung verschwunden war. An Protokolle, in denen präzise Sätze plötzlich wie Aggression aussahen. An Sachlagen.
+
+Das Wort lag unter ihrer Haut wie ein Splitter.
+
+"Frau Faller", sagte Hettich, leiser.
+
+Klara sah sie an.
+
+"Ich brauche von Ihnen eine Liste aller öffentlichen Veranstaltungen, Führungen, Workshops oder Schulprojekte der letzten zwei Jahre, bei denen Giftpflanzen, Heilpflanzen, Teemischungen oder Pflanzenwirkstoffe Thema waren."
+
+"Das wird lang."
+
+"Dann schreiben Sie klein."
+
+"Meine Schrift ist gut lesbar."
+
+"Ich weiß."
+
+Das war keine Freundlichkeit. Es war ein Hinweis auf ein Beweisstück.
+
+Klara nickte.
+
+"Und noch etwas", sagte Hettich. "Wenn Sie eine alte Präsentation, ein Arbeitsblatt oder Fotos haben, löschen Sie nichts."
+
+"Ich lösche grundsätzlich nichts."
+
+"Das glaube ich Ihnen sofort."
+
+"Das klang nicht wie ein Kompliment."
+
+"War auch keins."
+
+Nils schrieb mit. Sein Gesicht war offen, aber nicht mehr weich. Er hatte verstanden, dass ein hübsches Warnschild in der falschen Reihenfolge ein sehr hässliches Gewicht bekommen konnte.
+
+Hettich klappte die Mappe zu.
+
+"Sie gehen jetzt nach Hause", sagte sie. "Sie schreiben die Liste. Sie schicken sie an mich. Nicht an Herrn Leitner, nicht an Frau Ruf, nicht an irgendeinen Elternblog."
+
+"Ich kenne keinen Elternblog."
+
+"Dann bleibt das so."
+
+Klara nahm ihre Tasche vom Boden. Sie sah noch einmal zu ihrem Stand. Ohne Blechdose wirkte er verstümmelt. Ohne Tütchen fast fremd. Als habe jemand aus ihrer Ordnung die Wörter herausgeschnitten.
+
+Tarek hob kurz die Hand.
+
+Klara hob ihre.
+
+Hettich beobachtete den kleinen Austausch und sagte nichts. Vielleicht, weil er nichts bedeutete. Vielleicht, weil er zu viel bedeutete.
+
+Als Klara ging, hörte sie Nils hinter sich sagen: "Frau Hettich?"
+
+"Ja?"
+
+"Das Foto vom Schild. Es gibt noch eine Nahaufnahme."
+
+Klara blieb stehen, obwohl sie wusste, dass sie es nicht sollte.
+
+Hettich sagte nichts.
+
+Nils sprach leiser. "Da steht unten ihr Name."
+
+Der Markt lief weiter.
+
+Klara ging.
+
+## Kapitel 12: Tareks Kühlung
+
+Tarek Özdemir hatte die Gabe, beleidigt auszusehen, ohne unhöflich zu werden.
+
+Das war schwieriger, als es klang.
+
+Er stand hinter seinem Feinkoststand, die Ärmel hochgeschoben, ein sauberes Tuch über der Schulter, und sah zu, wie Nils Ganter vor seiner Kühlbox kniete. Nicht wirklich kniete. Nils hockte eher so, wie Menschen hockten, die dienstlich seriös bleiben wollten, während sie Joghurtgläser mit Nummern auf kleinen Klebezetteln versahen.
+
+"Das ist mein Kaymak", sagte Tarek.
+
+"Ich weiß", sagte Nils.
+
+"Sie schreiben ihn auf, als hätte er etwas getan."
+
+"Ich dokumentiere nur."
+
+"Kaymak hat ein Alibi. Er war durchgehend gekühlt."
+
+Klara stand drei Schritte entfernt.
+
+Nicht bei Tarek. Nicht im Gespräch. Nicht im Weg. Drei Schritte waren derzeit die kleinste Einheit ihrer Selbstbeherrschung.
+
+Hettich hatte ihr erlaubt, eine Kiste mit freigegebenen Kräutern abzuholen, weil Lilli am Nachmittag ein Seminar hatte und weil Petersilie nicht warten konnte, bis Leitner seine Vorstellung von Ordnung abgeschlossen hatte. Nils war gleichzeitig mit Tareks Aussage beschäftigt. Hettich hatte diese Gleichzeitigkeit nicht kommentiert.
+
+Das war bei ihr wahrscheinlich Absicht.
+
+"Frau Faller", hatte Nils gesagt, als sie angekommen war, "Sie fragen nichts."
+
+"Ich atme nur."
+
+"Auch nicht suggestiv."
+
+"Wie atmet man suggestiv?"
+
+Nils hatte sie angeschaut.
+
+Klara hatte geschwiegen.
+
+Jetzt roch es am Stand nach Joghurt, Salzlake, Sesam und dem süßen Butterton von Baklava. Tareks Kühlbox stand offen. Darin lagen kleine Flaschen Ayran, Gläser mit Joghurt, zwei flache Behälter mit Kaymak, ein Käse in Salzlake und mehrere Kühlakkus, die aussahen wie kleine blaue Beweise für praktische Vernunft.
+
+"Ihre Produkte waren gestern jederzeit unter Ihrer Kontrolle?" fragte Nils.
+
+Tarek sah zu Klara.
+
+Nils sah sofort ebenfalls zu ihr.
+
+Klara hob beide Hände. "Ich habe nichts gefragt."
+
+"Ich habe nur geschaut", sagte Tarek.
+
+"Das war fast schlimmer", sagte Nils.
+
+Tarek zog die Augenbrauen hoch. "Sie lernen schnell."
+
+Klara biss auf die Innenseite ihrer Wange. Es half. Nicht genug.
+
+Nils räusperte sich. "Herr Özdemir. Ihre Produkte."
+
+"Meine Produkte waren unter meiner Kontrolle, soweit ein Markt unter Kontrolle ist. Ich war am Stand. Ich habe verkauft. Ich habe einmal Frau Faller die Schattenplane gehalten. Ich habe beim Zusammenbruch die Leute zurückgehalten. Davor war niemand an meiner Kühlbox."
+
+"Niemand?"
+
+Tarek schwieg.
+
+Klara sah auf einen Korb mit Sesamringen.
+
+Nicht fragen.
+
+Nicht einmal innerlich so laut, dass es die Luft bewegte.
+
+"Nicht an den Produkten", sagte Tarek.
+
+Nils schrieb. "Das ist eine andere Antwort."
+
+"Ja."
+
+"Wer war an der Kühlbox?"
+
+Tarek nahm ein Glas Joghurt aus einer anderen Kiste, kontrollierte den Deckel und stellte es wieder hin. Die Bewegung war langsam. Nicht aus Verzögerung. Aus Ärger, der gut erzogen worden war.
+
+"Frau Bechtold", sagte er.
+
+Klara sah nicht auf.
+
+Das war ihre zweite Leistung des Tages.
+
+"Wann?" fragte Nils.
+
+"Vor der Rede. Nach dem Aufbau. Ungefähr neun Uhr zwanzig. Vielleicht fünf Minuten später. Die Glocke hatte noch nicht geschlagen, aber die Stadt war schon im Modus 'Wir sind alle wichtig'."
+
+"Bitte ohne Modus."
+
+"Dann ungefähr neun Uhr zwanzig."
+
+"Was wollte sie?"
+
+"Platz."
+
+"Wofür?"
+
+"Eine kleine Tasche. Weiß. Kühlbeutel. Sie sagte, nur kurz. Für das Sonnenrain-Team."
+
+Nils sah hoch. "Was war in der Tasche?"
+
+"Ich habe nicht hineingeschaut."
+
+"Warum nicht?"
+
+Tarek sah ihn an, als habe Nils gefragt, warum er auf dem Markt nicht jedem Kunden vorsorglich in die Ehe schaue.
+
+"Weil Menschen auf Märkten manchmal Dinge abstellen und ich nicht grundsätzlich kriminalistisch lebe."
+
+"Gestern war ein Benefizfrühstück."
+
+"Gestern Morgen war noch kein Mordfall."
+
+Das Wort fiel leise.
+
+Mordfall.
+
+Es passte nicht zu Baklava, Kühlakkus und dem kleinen Jungen, der am Nachbarstand fragte, ob Oliven Obst seien. Es passte zu nichts auf diesem Platz. Genau deshalb blieb es hängen.
+
+Nils schrieb langsamer.
+
+"Hat Frau Bechtold gesagt, warum sie Ihre Kühlung braucht und nicht ihre eigene?"
+
+"Sie sagte, die Sonnenrain-Box sei voll. Getränke, Joghurt, irgendwas für Kinder. Ich habe ihr gesagt, meine Kühlkette ist kein pädagogisches Gemeinschaftserlebnis."
+
+Klara schloss kurz die Augen.
+
+Tarek fuhr fort: "Sie lächelte. Sehr kontrolliert. Dann sagte sie, es gehe nur um fünf Minuten."
+
+"Und?"
+
+"Ich habe die Tasche an den Rand gestellt. Nicht zu meinen Produkten. Neben die Akkus. Dann kam eine Kundin mit drei Sonderwünschen zu Oliven, die alle falsch waren."
+
+"Wie lange stand die Tasche in Ihrer Box?"
+
+"Vielleicht acht Minuten. Vielleicht zehn. Sie hat sie wieder geholt."
+
+"Frau Bechtold selbst?"
+
+"Ja."
+
+"Allein?"
+
+Tarek überlegte. "Paula stand in der Nähe. Nicht direkt. Mit Servietten oder Broschüren. Diese junge Frau sieht immer aus, als würde sie gleich für etwas verantwortlich gemacht, was sie nicht entschieden hat."
+
+Klara musste den Blick heben.
+
+Tarek sah sie nicht an.
+
+Das war freundlich von ihm.
+
+Nils notierte. "Hat Frau Bechtold währenddessen etwas aus Ihrer Kühlbox genommen?"
+
+"Nein."
+
+"Haben Sie das gesehen?"
+
+"Ich habe gesehen, dass sie ihre Tasche genommen hat."
+
+"Mehr nicht?"
+
+"Mehr nicht."
+
+Nils schrieb. Dann sah er auf die Kühlbox.
+
+"Wir müssen die Innenflächen noch einmal abstreichen."
+
+Tarek sah auf seine Box, als habe sie einen unverdienten Rufschaden erlitten. "Sie ist sauber."
+
+"Das glaube ich."
+
+"Sie glauben viel."
+
+"Ich muss prüfen."
+
+"Das ist ein Satz, mit dem man in Deutschland jede Stimmung ruinieren kann."
+
+"Ich bin nicht für Stimmung zuständig."
+
+"Das merkt man", sagte Tarek.
+
+Klara hätte gelacht, wenn Nils nicht so ernst geblieben wäre. Sein offenes Gesicht war jetzt konzentriert. Er hatte den Stift zwischen zwei Fingern und betrachtete die Position der Box, den Abstand zu den Sonnenrain-Tischen, den Laufweg, die Sicht von Klaras Stand, die Stelle, an der Paula am Vortag gestanden hatte.
+
+Freiburg war klein genug, dass Wege persönlich wurden. Der Münstermarkt war noch kleiner. Eine Kühlbox stand nie einfach nur da. Sie stand im Schatten, im Blick, im Weg, in Reichweite. Wer sie nutzte, musste wissen, von welcher Seite man sich näherte, ohne Kundschaft zu blockieren.
+
+Nils sah zu Klara.
+
+"Nein", sagte sie.
+
+"Ich habe nichts gefragt."
+
+"Sie wollten fragen, ob Frau Bechtold den normalen Marktweg genommen hat oder die Standseite."
+
+Nils öffnete den Mund.
+
+Schloss ihn wieder.
+
+Tarek sagte: "Sie hat die Standseite genommen."
+
+Nils sah zu ihm.
+
+"Nicht den Kundenweg", sagte Tarek. "Die Seite, die man nimmt, wenn man nicht fragt, ob man darf. Oder wenn man glaubt, dass Fragen für andere Leute sind."
+
+Klara sah auf die Kühlbox.
+
+Nicht Beweis.
+
+Nur ein Weg.
+
+Ein Körper, der wusste, wo er nicht gesehen werden wollte.
+
+"Das schreiben Sie auf", sagte sie.
+
+Nils sah sie an.
+
+Tarek auch.
+
+Klara hob die Hände. "Atmung. Nicht suggestiv."
+
+Nils schrieb es auf.
+
+Dann sagte Tarek, so leise, dass es beinahe unter dem Geräusch einer Straßenbahn verschwunden wäre: "Sie hat gesagt, nur kurz. Menschen sagen nur kurz, wenn sie wissen, dass es nicht kurz genug ist."
+
+## Kapitel 13: Elternbeirat mit Messerlächeln
+
+Nora Bechtold hatte die Sonnenrain-Eltern nicht zusammengerufen.
+
+Sie hatte sie informiert.
+
+Das war ein Unterschied, den Mara Hettich nach drei Minuten verstand und nach sieben Minuten leid war.
+
+Der Raum im Schulgebäude roch nach Kaffee aus einer Maschine, die zu viel Verantwortung trug, nach Holzspielzeug, Kopierpapier und einem Rest feuchter Jacken. An der Wand hingen Kinderzeichnungen: Sonnen, Bäume, ein Haus mit sehr vielen Fenstern und ein Plakat, auf dem stand: Wir lernen Verantwortung.
+
+Hettich betrachtete das Plakat kurz.
+
+Verantwortung hing oft an Wänden, wenn sie auf Stühlen fehlte.
+
+Nils stand neben der Tür und schrieb mit. Er wirkte höflich genug, um unterschätzt zu werden. Hettich ließ ihn. Unterschätzte Menschen hörten mehr.
+
+Am Tisch saßen sechs Eltern, zwei Lehrkräfte und Nora Bechtold am Kopfende, obwohl der Tisch rund war. Das musste man können.
+
+"Wir möchten selbstverständlich vollumfänglich kooperieren", sagte Nora.
+
+Vollumfänglich war eines dieser Wörter, bei denen Hettich innerlich den Stift schärfte.
+
+"Gut", sagte sie.
+
+"Die Schule hat nichts zu verbergen."
+
+Ein Vater in einem hellblauen Hemd nickte zu schnell. Eine Mutter mit sehr geradem Pony sah auf ihre Hände. Eine Lehrerin, die Hettich als Frau Kopp notiert hatte, zog ihre Wasserflasche näher zu sich, als könne Flüssigkeit Loyalitätsfragen lösen.
+
+"Dann beginnen wir mit einfachen Abläufen", sagte Hettich. "Wer war gestern für die Getränke verantwortlich?"
+
+Nora lächelte. "Das war ein Team."
+
+"Namen."
+
+Das Lächeln blieb. Es verlor nur etwas Temperatur.
+
+"Ich hatte die Koordination. Paula Riener unterstützte. Zwei Eltern halfen beim Ausschank, Herr und Frau Lehmann, außerdem zeitweise Herr Baumann."
+
+Herr Baumann, hellblaues Hemd, räusperte sich. "Ich war eher beim Aufbauen."
+
+Nora sah ihn an. Nicht scharf. Nur passend.
+
+"Natürlich", sagte sie. "Beim Aufbau der Getränkeausgabe."
+
+Herr Baumann nickte wieder. Diesmal langsamer.
+
+Hettich schrieb den Namen auf. "Wie wurden die Becher markiert?"
+
+"Zur Übersicht", sagte Nora. "Wir hatten Kaffee, Wasser, Tee und einige Sonderwünsche."
+
+"Sonderwünsche?"
+
+"Kinder, Allergien, ältere Menschen, Menschen, die keinen Kaffee vertragen. Ein offenes, nachhaltiges Frühstück muss sensibel organisiert sein."
+
+Nils schrieb weiter. Hettich hörte an seinem Stift, dass er bei sensibel kurz innehielt.
+
+"Farben?" fragte Hettich.
+
+"Gelb für Kaffee, blau für Wasser, grün für Tee." Nora faltete die Hände. "Das war sehr schlicht."
+
+Eine Frau links von ihr hob den Kopf. "Ich dachte, grün war auch für Kräutertee."
+
+Nora wandte sich zu ihr. "Tee, ja."
+
+"Fenchel war doch extra?"
+
+Der Raum wurde nicht still. Er wurde vorsichtig.
+
+Nora lächelte die Frau an. "Frau Sauter, ich glaube, die genaue Unterscheidung war für die Ausgabe nicht entscheidend."
+
+"Für uns ist sie das vielleicht", sagte Hettich.
+
+Nora sah wieder zu ihr. "Selbstverständlich."
+
+Selbstverständlich war ein Wort, das in diesem Raum bereits müde wirkte.
+
+"Also", sagte Hettich, "Fencheltee war extra?"
+
+"Frau Brombacher trinkt Fencheltee", sagte Nora. "Sie ist da etwas eigen. Wir wollten es ihr angenehm machen."
+
+"Wer ist wir?"
+
+"Ich."
+
+Das war die erste Antwort, die nicht versuchte, Gruppenarbeit zu tragen.
+
+Hettich schrieb sie auf.
+
+"Und Dr. Lenz?" fragte sie.
+
+"Kaffee", sagte Nora.
+
+Zu schnell.
+
+Hettich hob den Blick.
+
+Nora merkte es. "Er trank meist Kaffee. Gestern auch, soweit ich weiß."
+
+"Soweit Sie wissen."
+
+"Ich habe ihm keinen Becher gereicht."
+
+"Wer hat es?"
+
+Nora sah zu den anderen. Der Blick war offen, einladend, gefährlich. Er sagte: Wer jetzt spricht, spricht für uns alle und gegen die Ordnung, die ich gerade herstelle.
+
+Die Lehrerin mit der Wasserflasche sagte: "Er hat ihn selbst genommen."
+
+Hettich drehte sich zu ihr. "Gesehen?"
+
+"Ja. Also, ich glaube. Er stand am Tisch. Paula war daneben. Nora hat mit der Journalistin gesprochen. Ich war bei den Weckle."
+
+"Bei den Weckle", wiederholte Nils leise, ohne aufzusehen.
+
+Hettich warf ihm keinen Blick zu. Er würde lernen, dass manche Sätze sich selbst dokumentierten.
+
+"Frau Riener ist nicht hier?" fragte Hettich.
+
+"Paula ist krank", sagte Nora.
+
+"Seit wann?"
+
+"Seit gestern Nachmittag. Der Schock."
+
+"Haben Sie mit ihr gesprochen?"
+
+"Natürlich. Ich kümmere mich um mein Team."
+
+Das war der erste Satz des Morgens, in dem Nora unvorsichtig wurde.
+
+Mein Team.
+
+Hettich schrieb nicht sofort. Sie sah Nora an, lange genug, dass der Raum begriff, wie ein Besitzpronomen wirken konnte, wenn es auf Menschen angewandt wurde.
+
+Frau Kopp zog die Wasserflasche noch näher zu sich. "Paula war gestern danach noch kurz im Büro."
+
+Noras Kopf drehte sich kaum. Nur ihr Lächeln wurde präziser. "Sie hat ihre Sachen geholt."
+
+"Sie hat geweint", sagte Frau Kopp.
+
+Herr Baumann sah auf den Tisch.
+
+"Sie war erschöpft", sagte Nora. "Das ist nach so einem Vorfall menschlich."
+
+"Wer hat sie nach Hause geschickt?" fragte Hettich.
+
+"Ich", sagte Nora. "Aus Fürsorge."
+
+Fürsorge konnte in diesem Raum erstaunlich nach Anweisung klingen.
+
+"Frau Riener wird von uns erneut befragt", sagte sie.
+
+"Sie ist sehr belastet."
+
+"Das habe ich verstanden."
+
+"Ich möchte nur vermeiden, dass junge Kolleginnen durch Spekulationen beschädigt werden."
+
+"Dann vermeiden Sie Spekulationen."
+
+Ein leises Geräusch ging durch den Raum. Kein Lachen. Eher das soziale Äquivalent eines hochgezogenen Kopfes.
+
+Nora nahm es hin. "Selbstverständlich."
+
+Hettich legte den Stift ab. "Gab es vor dem Zusammenbruch Streit zwischen Dr. Lenz und jemandem aus Ihrem Kreis?"
+
+Diesmal sah niemand zu schnell irgendwohin. Das war fast auffälliger.
+
+Herr Baumann rückte seinen Stuhl zurück. "Er hatte viele Reibungen."
+
+Nora sagte: "Dr. Lenz war eine prägende Persönlichkeit. Prägende Persönlichkeiten erzeugen manchmal Widerstand."
+
+"Das steht auf einer Trauerkarte besser als in einer Aussage", sagte Hettich.
+
+Nils schrieb nicht.
+
+Nora hielt den Blick. "Es gab Kritik an einem Förderprojekt. An Kommunikationswegen. An Ressourcen."
+
+"Geld?"
+
+"Ressourcen."
+
+"Das war nicht meine Frage."
+
+Die Mutter mit dem geraden Pony sagte plötzlich: "Es ging auch um Geld."
+
+Nora sah sie an.
+
+Die Mutter wurde rot, sprach aber weiter. "Um Spenden. Um dieses neue Lernatelier. Und um die Frage, wer darüber entscheidet."
+
+"Danke", sagte Hettich.
+
+Nora lächelte. "Genau deshalb ist Transparenz jetzt das Wichtigste."
+
+Der Satz war sauber.
+
+Zu sauber.
+
+Er kam mit Bügelkante und Messerlächeln.
+
+"Transparenz", sagte Hettich, "beginnt meistens damit, dass niemand die anderen Sätze aussortiert."
+
+Nora blinzelte einmal. Nicht viel. Genug.
+
+Draußen rief ein Kind auf dem Flur nach seiner Jacke. Irgendwo fiel ein Becher um. Kaffee tropfte auf den Tisch und zog eine dunkle Linie zwischen zwei Elternmappen.
+
+Nils griff nach einem Tuch.
+
+Nora war schneller.
+
+Sie tupfte den Kaffee weg, bevor er den Rand der Ausschankliste erreichte, auf der Helfernamen neben gelben, blauen und grünen Punkten standen. Ihre Bewegungen waren ruhig, geübt und sehr genau.
+
+Hettich sah auf die Ausschankliste.
+
+"Die nehme ich mit", sagte sie.
+
+Nora hielt das Tuch in der Hand. "Selbstverständlich."
+
+Diesmal klang es nicht mehr ganz so.
+
+## Kapitel 14: Herdern, früher
+
+Herdern war nicht idyllisch.
+
+Herdern sah nur manchmal so aus, als hätte es für Idyllen eine Bauordnung gegeben.
+
+Klara ging langsam die Straße hinauf, vorbei an alten Häusern, Vorgärten, die aussahen, als hätten sie eine Meinung zur richtigen Höhe von Buchsbaum, und Fahrrädern, die an Zäunen lehnten wie abgestellte Lebensentwürfe. In der Ferne lag der Schlossberg grün und selbstverständlich. Über allem hing diese Freiburger Mischung aus Wohlstand, Erinnerung und der leisen Erwartung, dass man sich beim Grüßen bitte nicht zu viel anmerken lassen sollte.
+
+Sie hatte Hettich eine Liste geschickt.
+
+Giftpflanzenführungen, Schulprojekte, Marktaktionen, zwei Vorträge für einen Gartenverein, eine Veranstaltung in der Volkshochschule, ein Workshop für Kinder, bei dem ein Vater gefragt hatte, ob man Tollkirsche auch homöopathisch betrachten könne. Klara hatte damals geantwortet, man könne vieles betrachten, wenn man weit genug weg stehe.
+
+Hettich hatte nur geschrieben:
+
+`Eingang bestätigt. Keine weiteren eigenen Befragungen.`
+
+Klara hatte nicht geantwortet.
+
+Das war vermutlich Reife.
+
+Oder Trotz mit Ladehemmung.
+
+Bärbel wartete vor dem alten Kindergarten St. Elisabeth, einen Stoffbeutel am Arm und eine Sonnenbrille im Haar, obwohl die Sonne hinter Wolken lag.
+
+"Du bist spät", sagte sie.
+
+"Ich bin pünktlich."
+
+"Für dich. Für Menschen mit Gefühl ist das spät."
+
+"Wir sollten uns nicht treffen."
+
+"Dann ist es gut, dass ich zufällig hier stehe."
+
+"Mit einem Stoffbeutel."
+
+"Zufall mit Transportkapazität."
+
+Klara sah sie an.
+
+Bärbel sah zurück.
+
+So begannen viele ihrer Gespräche: zwei Frauen Anfang fünfzig, einander seit dem Kindergarten bekannt, beide überzeugt, dass die andere dringend Vernunft benötigte und man selbst leider die falsche Person war, sie schonend zu liefern.
+
+"Hettich hat mir geschrieben", sagte Bärbel.
+
+Klara hob den Kopf.
+
+"Nicht so. Keine Angst. Sie hat gefragt, ob ich die alte Sache mit Helene offiziell erzählen kann. Ich hab gesagt, kann ich. Aber ich weiß nicht mehr alles. Und dann fiel mir ein, dass du vielleicht weißt, welches Jahr das war."
+
+"Das hättest du Hettich schreiben können."
+
+"Hab ich."
+
+"Und?"
+
+"Sie schrieb: 'Wenn Frau Faller sachdienliche Jahreszahlen kennt, bitte schriftlich an mich.'"
+
+Klara schloss kurz die Augen. "Sie hat dich gebeten, mich nicht zu treffen."
+
+"Nein. Sie hat es nur so formuliert, dass ein sehr gehorsamer Mensch es verstanden hätte."
+
+"Bärbel."
+
+"Ich bin Blumenfrau. Gehorsam ist nicht meine Kernkompetenz."
+
+Klara hätte gehen sollen.
+
+Sie gingen los.
+
+Der alte Weg vom Kindergarten Richtung Herdern war kürzer geworden. Oder sie waren größer. Beides war beleidigend. Bärbel zeigte auf eine Mauer.
+
+"Da hast du damals einen Käfer gerettet und danach erklärt, dass alle anderen ihn falsch 'Marienkäfer' nennen, weil er gar keiner war."
+
+"Es war ein Feuerkäfer."
+
+"Du warst fünf."
+
+"Er war trotzdem kein Marienkäfer."
+
+"Die Erzieherin hat danach Schnaps gebraucht. Pädagogisch natürlich."
+
+"Das stimmt nicht."
+
+"Nein. Aber es hätte gestimmt, und das reicht in Herdern oft."
+
+Klara lächelte.
+
+Ein bisschen.
+
+Vor ihnen schob eine ältere Frau ein Fahrrad über den Gehweg und grüßte Bärbel mit dieser Mischung aus Nähe und Prüfung, die in Freiburg bedeutete: Ich weiß, wer du bist, aber ich entscheide später, ob ich es nutze.
+
+"Was ist mit Helene?" fragte Klara.
+
+Bärbel wurde langsamer.
+
+"Schulfest. Nicht Kindergarten. Später. Droste oder Berthold, ich weiß es nicht mehr. Irgendwas mit Chor, Kuchen und Eltern, die taten, als sei ein Tombolatisch ein Beitrag zur Bildungslandschaft."
+
+"Sehr präzise."
+
+"Du warst damals auch da."
+
+"Ich war auf vielen Schulfesten."
+
+"Ja. Du hast meistens Tische ausgerichtet."
+
+"Jemand musste."
+
+Bärbel griff in ihren Stoffbeutel und zog ein gefaltetes Programmblatt heraus, gelblich an den Kanten, zweimal geknickt und an einer Ecke mit einem alten Tesafilmrest verstärkt.
+
+"Meine Mutter hat sowas aufgehoben", sagte sie. "Programme, Elternbriefe, Todesanzeigen, Kassenzettel von Schuhkäufen. Ein Archiv der maximal mittelständischen Beweisführung."
+
+"Warum hast du das dabei?"
+
+"Weil Hettich nach Jahreszahlen gefragt hat. Und weil Papier weniger dramatisch erinnert als ich."
+
+Auf der Vorderseite stand Sommerfest Herdern 1998. Darunter: Chor, Tombola, Projektstände, Pädagogischer Arbeitskreis. Ein Name war mit blasser Kugelschreibertinte unterstrichen.
+
+Severin Lenz.
+
+"Ich habe Hettich ein Foto geschickt", sagte Bärbel. "Das Original bekommt sie, wenn ich nicht mehr Gefahr laufe, es aus Versehen mit Freesien einzuwickeln."
+
+Bärbel blieb an der Ecke stehen. Von dort sah man hinunter Richtung Stadt, Dächer, Bäume, ein Stück Münster, wenn man wusste, wo man suchen musste. Freiburg war aus der Entfernung schöner, weil man die Gespräche nicht hörte.
+
+"Helene saß damals am Rand", sagte Bärbel. "Nicht beim Kollegium. Nicht bei den Eltern. Am Rand. Mit einem Heft."
+
+Klara sah sie an.
+
+"Was für ein Heft?"
+
+"Klein. Schwarz oder dunkelblau. Gummiband drum. Sie hat immer wieder etwas notiert. Ich dachte erst, sie schreibt Kuchenbestellungen auf. Aber wer notiert Kuchen mit so einem Gesicht?"
+
+"Welches Gesicht?"
+
+"Das Gesicht einer Frau, die später noch weiß, wer gelogen hat."
+
+Klara spürte, wie die Luft um den Namen Helene wieder diesen kleinen Raum bildete.
+
+"Worüber ging es?"
+
+"Um Lenz."
+
+"Severin Lenz?"
+
+"Damals war er noch nicht Dr. Alleswirdgut. Aber er war schon Severin Lenz. Er konnte als junger Mann schon so lächeln, dass Erwachsene ihm ihre Bedenken freiwillig in Geschenkpapier wickelten."
+
+"Bärbel."
+
+"Ich weiß. Tot. Nicht grausam."
+
+"Nicht nur deshalb."
+
+Bärbel nickte. "Helene hat mit einer Frau gestritten. Leise. Nicht so, dass man es Streit nennen konnte, wenn man eingeladen war. Eher diese Art Gespräch, bei der zwei Leute den Kuchen anschauen und dabei ein Leben beschädigen."
+
+"Name?"
+
+"Ich weiß es nicht."
+
+"Und das Heft?"
+
+"Helene schrieb danach etwas auf. Ich weiß noch, weil sie den Stift so gehalten hat." Bärbel nahm einen imaginären Stift zwischen zwei Finger. "Ganz fein. Als wäre Schrift etwas, das man nicht laut machen darf."
+
+Klara dachte an Helenes Hände. An den Fencheltee. An den Blick, der nicht alt gewesen war, sondern gesammelt.
+
+"Warum hast du mir das nie erzählt?"
+
+"Weil wir damals jünger waren und dachten, Erwachsene haben Gründe. Heute weiß ich: Erwachsene haben meistens Ausreden mit besserer Kleidung."
+
+Ein Fahrrad fuhr vorbei. Der Fahrer wich einem kleinen Kind aus, ohne langsamer zu werden. Freiburg konnte Rücksicht und Selbstüberschätzung in einer einzigen Kurve unterbringen.
+
+"Hat Helene später weiter solche Hefte gehabt?" fragte Klara.
+
+Bärbel sah sie an.
+
+"Du weißt es?"
+
+"Ich hab sie ein paar Mal mit Notizheften gesehen. Am Markt. Bei Beerdigungen. Bei Schulfesten. Ich dachte, sie ist halt so. Manche sammeln Briefmarken, manche Fehlverhalten."
+
+"Das ist kein Hobby."
+
+"Bei Helene vielleicht eher Archiv."
+
+Klara schwieg.
+
+Helene rückte in ihrem Kopf an einen anderen Platz. Nicht Täterin. Nicht Opfer. Nicht Zeugin. Noch nicht. Eher eine Frau, die Dinge aufgehoben hatte, weil niemand sonst es tat.
+
+"Du musst das Hettich sagen", sagte Klara.
+
+"Hab ich."
+
+"Natürlich."
+
+"Ich entwickle mich."
+
+"Langsam."
+
+"Nachhaltig."
+
+Sie gingen weiter. Vor dem alten Kindergarten blieb Klara noch einmal stehen. Hinter den Fenstern hingen Papierblumen. Kinderstimmen kamen gedämpft durch die Scheiben. Ein kleiner Junge drückte seine Nase ans Glas und sah die beiden Frauen an, als seien sie ein sehr langsames Naturereignis.
+
+Bärbel winkte.
+
+Der Junge winkte nicht zurück.
+
+"Unfreundlich", sagte Bärbel.
+
+"Selektive Bindungsbereitschaft."
+
+"Du klingst wieder wie eine Fortbildung."
+
+"Du klingst wie jemand, der zu viele Rosen deutet."
+
+"Und trotzdem weiß ich mehr als du."
+
+Klara sah sie an.
+
+Bärbel schob die Sonnenbrille aus dem Haar auf die Nase, obwohl die Sonne noch immer nicht herauskam.
+
+"Helene hat nicht nur Blumen notiert", sagte sie.
+
+"Was dann?"
+
+"Menschen."
+
+Klara wartete.
+
+"Keine Charakterurteile", sagte Bärbel. "Namen. Daten. Sitzplätze. Wer am Rand stand, wer unterschrieben hat, wer später behauptete, er sei gar nicht dabei gewesen."
+
+## Kapitel 15: Gregor läuft aus
+
+Nils Ganter hatte Klara nicht zur Sporthalle eingeladen.
+
+Das sagte er sofort.
+
+"Ich habe Sie nicht zur Sporthalle eingeladen."
+
+Klara stand im Eingangsbereich der alten Halle, roch Bodenwachs, Turnmatten, kalten Kaffee aus einem Automaten und diesen besonderen Schweiß, der nicht von Sport kam, sondern von Räumen, in denen Sport seit Jahrzehnten als Charakterbildung verkauft wurde.
+
+"Das habe ich auch nicht behauptet", sagte sie.
+
+"Warum sind Sie dann hier?"
+
+"Ich gehe."
+
+"Durch eine Sporthalle?"
+
+"Freiburg hat komplexe Wege."
+
+Nils sah sie an.
+
+Klara sah zurück.
+
+"Bärbel hat mir gesagt, Gregor Wehrle trainiert hier", sagte sie schließlich.
+
+"Das war ehrlicher. Nicht besser, aber ehrlicher."
+
+"Sie sind auch hier."
+
+"Dienstlich."
+
+"Ich atme wieder nur."
+
+"Frau Faller."
+
+"Nicht suggestiv."
+
+Nils schloss kurz die Augen. "Frau Hettich wird mich fragen, warum ich Sie hier nicht sofort nach Hause geschickt habe."
+
+"Sagen Sie, ich war bereits im Gehen."
+
+"Sind Sie?"
+
+"Konzeptionell."
+
+Aus der Halle kam ein Pfiff. Dann das dumpfe Geräusch eines Balls gegen eine Wand. Eine Männerstimme rief: "Noch mal sauber! Nicht schön, sauber!"
+
+Klara hob leicht die Augenbrauen.
+
+"Das ist Gregor Wehrle", sagte Nils.
+
+"Sportlehrer?"
+
+"Sportlehrer, Vereinstrainer, Sonnenrain-Projektpartner. Je nachdem, wen man fragt."
+
+"Und wen fragen Sie?"
+
+"Gerade ihn."
+
+Nils öffnete die Hallentür.
+
+Die Halle war hell, aber nicht freundlich. Basketballkörbe hingen an den Wänden, Matten stapelten sich in einer Ecke, ein altes Klettergerüst roch nach Grundschule und Haftpflicht. Zehn Jugendliche liefen eine Übung, die aussah, als sei Ausweichen pädagogisch erwünscht. Am Rand stand Gregor Wehrle.
+
+Er war um die fünfzig, breitschultrig, in Trainingshose und einem dunkelroten Shirt, das am Rücken feucht war. Das kurze Haar klebte an der Stirn, seine Hände waren groß, die Fingergelenke leicht geschwollen, als hätten sie viele Bälle, Türen und schlechte Gespräche abgefangen. Er sah nicht gefährlich aus. Er sah aus wie jemand, der gefährlich werden konnte, wenn man ihn lange genug von oben herab behandelte.
+
+"Pause!" rief Gregor.
+
+Die Jugendlichen verteilten sich zu Wasserflaschen und Handys. Zwei sahen sofort zu Klara. Jugendliche spürten Erwachsene mit Absicht schneller als Erwachsene mit Absicht sich selbst.
+
+Gregor kam herüber. "Polizei war doch schon da."
+
+"Wir haben noch Fragen", sagte Nils.
+
+Gregor sah zu Klara. "Und sie?"
+
+"Ist im Gehen", sagte Nils.
+
+Klara sagte nichts.
+
+Gregor lachte kurz. "Klar."
+
+Es war kein fröhliches Lachen. Eher ein Ball gegen Beton.
+
+"Herr Wehrle", sagte Nils, "Sie haben gestern angegeben, nach neun Uhr fünfundvierzig nicht mehr am Münsterplatz gewesen zu sein."
+
+"War ich auch nicht."
+
+"Mehrere Personen haben Sie später noch gesehen."
+
+"Dann haben mehrere Personen halt falsch gesehen."
+
+Klara registrierte das halt. Nicht als Fehler. Als Schutz. Menschen stellten halt gern in Sätze, wenn sie hofften, dass danach niemand mehr nachbohrte.
+
+"Wo waren Sie zwischen zehn und zehn dreißig?" fragte Nils.
+
+"Hier."
+
+"Die Halle war da belegt?"
+
+"Training."
+
+"Mit wem?"
+
+Gregor sah über die Schulter zu den Jugendlichen. "Andere Gruppe. Nicht die da."
+
+"Namen?"
+
+"Muss ich nachschauen."
+
+"Sie sind Trainer."
+
+"Ich trainiere viele."
+
+"Und erinnern sich nicht?"
+
+Gregor trat einen halben Schritt näher. Nicht bedrohlich genug, dass man es ihm vorwerfen konnte. Bedrohlich genug, dass der Körper es verstand.
+
+"Ich erinnere mich daran, dass ich nicht auf dem Markt war, als Lenz umgekippt ist."
+
+Klara hörte das Wort umgekippt und mochte es nicht. Menschen kippten um. Stühle kippten um. Lenz war gestorben. Sprache war manchmal zu bequem für die Wirklichkeit.
+
+Sie sagte nichts.
+
+Das war anstrengend.
+
+Nils blieb freundlich. "Sie hatten Streit mit Dr. Lenz."
+
+"Viele hatten Streit mit Lenz."
+
+"Ich frage nach Ihnen."
+
+Gregor wischte sich mit dem Handrücken über die Stirn. "Ja. Ich hatte Streit mit ihm."
+
+"Worüber?"
+
+"Projektstunden. Geld. Respekt. Suchen Sie sich was aus."
+
+"Ich suche nicht aus. Sie sagen es mir."
+
+Gregor sah kurz zu Klara. "Ist die immer dabei?"
+
+"Nein", sagte Nils.
+
+"Wirkt aber so."
+
+"Ich kann gehen", sagte Klara.
+
+Nils sah sie an.
+
+"Konzeptionell", fügte sie hinzu.
+
+Gregor schnaubte. "Lenz wollte mein Sportprojekt aus dem Bericht rausstreichen. Also nicht rausstreichen. Umformulieren. Das hat er gesagt. Umformulieren. Am Ende heißt das: Du machst die Arbeit, er macht den Satz."
+
+Klara spürte den alten Lehrerinnenreflex.
+
+Du machst die Arbeit, er macht den Satz.
+
+Das war kein schlechter Satz. Grammatisch roh, aber wahr.
+
+Sie hatte Gregor in den ersten Sekunden unterschätzt. Wegen dem Ton, hätte sie beinahe gedacht. Wegen des Tons, korrigierte sie innerlich. Dann ärgerte sie sich über sich selbst. Man konnte jemanden sprachlich unterschätzen und sachlich übersehen. Das war eine besonders gebildete Form von Dummheit.
+
+"Er hat Ihr Projekt verwendet?" fragte Nils.
+
+"Er hat es präsentiert. In diesem neuen Lernatelier-Quatsch. Bewegung, Körper, soziale Teilhabe. Wenn er es gesagt hat, klang es wie eine Idee. Wenn ich es gesagt habe, klang es wie Turnhalle."
+
+"Und gestern?"
+
+"Gestern habe ich ihm gesagt, er soll meinen Namen drinlassen."
+
+"Wann?"
+
+"Vor der Rede."
+
+"Wo?"
+
+"Beim Seiteneingang. Kurz."
+
+"Sie haben in Ihrer ersten Aussage gesagt, Sie hätten ihn gestern nicht allein gesprochen."
+
+Gregor sah zum Klettergerüst.
+
+Das war keine gute Richtung für Unschuld.
+
+"Ich hab ihn nicht richtig gesprochen."
+
+"Was ist richtig?"
+
+"Nicht lang."
+
+"Wie lang?"
+
+"Zwei Minuten."
+
+"Mit Streit?"
+
+"Mit Klarstellung."
+
+Klara dachte: Sachlage.
+
+Das Wort kam so plötzlich, dass sie die Hände zu Fäusten machte.
+
+Nils bemerkte es. Gregor nicht.
+
+"Hat jemand Sie gesehen?" fragte Nils.
+
+"Keine Ahnung."
+
+"Was haben Sie nach dem Gespräch getan?"
+
+"Bin los."
+
+"Wohin?"
+
+"Zur Halle."
+
+"Zu Fuß?"
+
+"Mit dem Rad."
+
+"Welcher Weg?"
+
+Gregor blinzelte. "Was?"
+
+"Welcher Weg?"
+
+"Normal halt."
+
+"Über die Kaiser-Joseph-Straße?"
+
+"Nee. Zu voll."
+
+"Über die Dreisam?"
+
+"Vielleicht."
+
+"Herr Wehrle."
+
+Gregor wurde rot am Hals. "Ich weiß doch nicht jede Kurve. Ich fahr halt."
+
+Klara wusste, dass das stimmte und nicht stimmte. Wer in Freiburg Rad fuhr, kannte nicht jede Kurve als Namen. Aber der Körper kannte sie. Er wusste, wo die Straßenbahn nervte, wo Touristen falsch standen, wo man am Bächle nicht zu eng nahm, wo Kopfsteinpflaster eine Flasche aus dem Korb schüttelte.
+
+"Wann waren Sie hier?" fragte Nils.
+
+"Zehn."
+
+"Sicher?"
+
+"So ungefähr."
+
+"Der Hausmeister sagt, er hat die Halle um zehn Uhr zwölf aufgeschlossen."
+
+Gregor schwieg.
+
+In der Halle prallte ein Ball gegen die Wand.
+
+Ein Jugendlicher lachte zu laut und hörte sofort wieder auf.
+
+Nils sah nicht triumphierend aus. Das war gut. Triumph machte Zeugen dumm und Verdächtige hart.
+
+"Also noch einmal", sagte Nils. "Wo waren Sie zwischen zehn und zehn zwölf?"
+
+Gregor sah zu Klara.
+
+Diesmal nicht genervt.
+
+Eher ertappt, aber nicht unbedingt mörderisch.
+
+"Nicht bei Lenz", sagte er.
+
+"Das war nicht meine Frage."
+
+"Aber Ihre Richtung."
+
+Nils klappte den Notizblock nicht zu. "Meine Richtung ist die Zeit."
+
+Gregor atmete aus. Seine Schultern senkten sich nicht. Sie wurden nur schwerer.
+
+"Ich war kurz beim Fahrradständer am Markt", sagte er.
+
+"Warum?"
+
+"Weil ich was vergessen hatte."
+
+"Was?"
+
+Gregor sagte nichts.
+
+Klara sah seine Hände. Nicht sauber. Kreide an einem Finger, vielleicht Magnesia, vielleicht Hallenstaub. Ein kleiner Kratzer am Handrücken. Hände, die viel erklärten, wenn man sie nicht mit Sätzen störte.
+
+Nils wartete.
+
+Gregor sah zur Hallenuhr.
+
+Dann sagte er: "Das geht niemanden was an."
+
+"Doch", sagte Nils. "Jetzt schon."
+
+Gregor schwieg.
+
+Klara wusste in diesem Moment nicht, ob er gefährlich war. Aber sie wusste, dass er gelogen hatte.
+
+Und Nils wusste es auch.
+
+Er schrieb langsam, sehr sauber, und sagte dann den Satz, der die Halle kälter machte als jede Polizeigeste.
+
+"Ihre Zeitangabe passt nicht."
+
+## Kapitel 16: Ein Alibi auf zwei Rädern
+
+Nils Ganter fuhr dieselbe Strecke dreimal.
+
+Beim ersten Mal zu langsam, weil ein Lieferwagen im Gässle stand und ein Tourist vor dem Münster plötzlich beschloss, den Himmel zu fotografieren. Beim zweiten Mal zu schnell, weil er sich ärgerte, dass der erste Versuch nicht belastbar war. Beim dritten Mal so, wie ein Freiburger an einem normalen Vormittag fuhr, wenn er weder beweisen noch sterben wollte.
+
+Das war vermutlich der juristisch brauchbarste Zustand.
+
+Die Dreisam lag hell unter dem Vormittag, nicht spektakulär, eher beschäftigt. Fahrräder kamen in kleinen Wellen, Studierende mit Rucksäcken, ein Mann mit Anhänger, eine Frau mit Kindersitz und einem Gesicht, das sagte, sie habe schon vor neun Uhr drei moralische Entscheidungen gegen Autofahrer getroffen. Nils hielt an der Brücke, sah auf seine Uhr und machte eine Notiz.
+
+Sechs Minuten vierzig.
+
+Wenn man wusste, wo man nicht absteigen musste.
+
+Sieben Minuten dreißig.
+
+Wenn man an der falschen Ampel höflich war.
+
+Neun Minuten.
+
+Wenn man so fuhr, wie Zeugen später behaupteten, gefahren zu sein, damit niemand fragte, warum man eigentlich schwitzte.
+
+Er schob das Fahrrad ein Stück zur Seite und schrieb die Zeiten sauber untereinander. Nils mochte Fahrräder nicht, weil sie romantisch waren. Er mochte sie, weil sie in Freiburg manchmal ehrlicher waren als Menschen. Eine Aussage konnte sich dehnen. Ein Radweg nur begrenzt.
+
+"Ganter."
+
+Hettich stand am Rand des Weges, dunkle Jacke, schwarze Kaffeetasse in der Hand, als sei sie aus dem Polizeigebäude gewachsen und kurz zur Dreisam hinuntergekommen.
+
+"Sie hätten nicht herkommen müssen", sagte Nils.
+
+"Ich wollte sehen, ob Sie sich wieder bei einer Ampel entschuldigen."
+
+"Nur innerlich."
+
+"Fortschritt."
+
+Nils reichte ihr den Notizblock. "Vom Fahrradständer am Münster bis zur Halle: unter acht Minuten realistisch. Zu Fuß siebzehn bis neunzehn, je nach Weg und schlechtem Gewissen."
+
+Hettich las. "Schlechtes Gewissen ist derzeit nicht messbar."
+
+"Noch nicht."
+
+"Nicht anfangen."
+
+"Ja."
+
+Sie gingen ein paar Schritte Richtung Schatten. Neben ihnen rauschte die Dreisam flach über Steine. Freiburg tat an solchen Stellen gern, als sei Bewegung immer gesund. Nils hatte in den letzten zwei Stunden wieder gelernt, dass Bewegung vor allem Behauptungen beschädigte.
+
+"Gregor Wehrle sagt, er sei gegen zehn in der Halle gewesen", sagte Hettich.
+
+"Die Halle wurde um zehn Uhr zwölf aufgeschlossen. Der Hausmeister bleibt dabei. Er sagt, Wehrle stand davor, als er kam. Unruhig. Hat sich gedehnt."
+
+"Gedehnt."
+
+"Der Hausmeister fand das normal. Sportlehrer."
+
+"Sportlehrer finden vieles normal, was andere Menschen als Fluchtverhalten lesen würden."
+
+Nils notierte den Satz nicht, obwohl er es gern getan hätte.
+
+"Wenn Wehrle um kurz vor zehn am Fahrradständer war", sagte er, "kann er um zehn zwölf an der Halle gewesen sein. Das passt. Aber dann war seine erste Aussage falsch."
+
+"Das wussten wir."
+
+"Jetzt wissen wir es mit Weg."
+
+Hettich nickte. Bei ihr war das Anerkennung mit sehr schmaler Verwaltung.
+
+"Und der Markt?" fragte sie.
+
+Nils schlug eine zweite Seite auf. "Vom Fahrradständer zur Getränkezone am Sonnenrain-Tisch: weniger als eine Minute. Wenn man von der Standseite kommt, schneller. Kundenweg langsamer, wegen Engstelle bei Tarek und Bärbel."
+
+"Sie haben die Standseite gemessen."
+
+"Ja."
+
+"Warum?"
+
+"Weil Herr Özdemir sagte, Frau Bechtold habe sie genommen. Und weil Frau Faller es nicht gefragt hat."
+
+Hettich sah ihn an.
+
+Nils hielt den Blick aus. Das war leichter, wenn man Recht hatte. Nicht leicht. Nur leichter.
+
+"Ich habe es selbst geprüft", sagte er. "Nicht wegen Frau Faller."
+
+"Natürlich nicht."
+
+"Also auch wegen Frau Faller, aber nicht nur."
+
+"Besser."
+
+Ein Radfahrer klingelte, obwohl genug Platz war. Hettich machte einen halben Schritt zur Seite, ohne hinzusehen. Menschen, die sich in Freiburg nicht von Klingeln beherrschen ließen, hatten entweder Mut oder Dienstgrad.
+
+Nils zeigte auf seine Skizze. "Wenn jemand am Bechertisch kurz verschwindet, angeblich zur Kühlung, dann auf der Standseite geht und wiederkommt, sieht das wie Organisation aus. Keine Flucht. Kein Heimlichtun. Eher Zuständigkeit."
+
+"Nora Bechtold."
+
+"Oder jede andere Person, die sich Zuständigkeit nimmt."
+
+"Gut", sagte Hettich.
+
+"Weil es nicht zu früh auf Nora zeigt?"
+
+"Weil es eine Formulierung ist, die Herr Leitner ertragen könnte."
+
+Nils sah wieder auf seine Zeiten. "Wehrle konnte am Markt gewesen sein und rechtzeitig zur Halle kommen. Das macht ihn verdächtiger."
+
+"Und?"
+
+"Es macht nicht automatisch den anderen Weg unwichtig."
+
+Hettich trank einen Schluck Kaffee. Ihr Gesicht veränderte sich nicht. Das sprach nicht für den Kaffee.
+
+"Sagen Sie es."
+
+"Dasselbe Zeitfenster ist nicht nur Gregors Problem."
+
+Hettich sah zur Dreisam. Das Wasser nahm den Satz mit, aber nicht weg.
+
+"Nein", sagte sie. "Es ist Freiburgs Problem."
+
+## Kapitel 17: Lillis Birkenstocks im Regen
+
+Als es zu regnen begann, zog Lilli Neumann die Füße nicht ein.
+
+Das war keine Tapferkeit. Es war Kontinuität.
+
+Sie saß auf der niedrigen Mauer vor der Evangelischen Hochschule, Birkenstocks an den Füßen, eine zu große Strickjacke um die Schultern und das Handy in der Hand. Der Regen war nicht stark genug, um dramatisch zu sein, aber gründlich genug, um in Freiburg sofort drei Gespräche über Wetter-Apps auszulösen.
+
+"Du wirst nass", sagte Klara.
+
+"Ich bin nicht aus Zucker."
+
+"Nein. Zucker würde geschlossenes Schuhwerk wählen."
+
+Lilli sah auf ihre Füße. "Das ist eine sehr normative Sicht auf Witterung."
+
+"Das ist Biologie."
+
+"Das ist Fußkonservatismus mit naturwissenschaftlicher Fassade."
+
+Klara setzte sich nicht neben sie. Sie blieb stehen, unter dem schmalen Vordach, das so tat, als sei es Schutz und nicht nur architektonische Andeutung. Sie hatte Lilli nicht gesucht. Nicht offiziell. Lilli hatte ihr geschrieben:
+
+`Ich hab deine Schürze. Nicht den Fall. Nur Stoff. Regen. EH.`
+
+Das war vermutlich die modernste Form von Verfahrensvorsicht.
+
+"Hettich weiß, dass du mir die Schürze gibst?" fragte Klara.
+
+"Ich habe Nils geschrieben."
+
+"Nils?"
+
+"Hettich schreibt wie ein Schrank. Nils schreibt wie ein Mensch mit schlechtem Gewissen. Das ist leichter."
+
+"Lilli."
+
+"Er hat gesagt: Keine Gespräche über den Vorfall."
+
+"Dann reden wir nicht darüber."
+
+"Gut."
+
+Sie schwiegen.
+
+Drei Sekunden.
+
+Aus dem Gebäude kamen zwei Studentinnen, beide mit Stoffbeuteln, eine mit nassen Haaren und einem Satz, der schon im Flur begonnen hatte.
+
+"... und wenn Paula wirklich bei Sonnenrain war, dann wundert mich gar nichts mehr. Diese Referendariatsstrukturen sind maximal vulnerabilitätsproduzierend."
+
+Die andere sagte: "Du kennst sie doch gar nicht."
+
+"Nein, aber institutionell betrachtet..."
+
+Lilli schloss kurz die Augen. "Bitte lass mich nie so klingen."
+
+"Du klingst manchmal sehr nah dran", sagte Klara.
+
+"Das war verletzend, aber bildungsbiografisch anschlussfähig."
+
+Die beiden Studentinnen verschwanden im Regen Richtung Straßenbahn. Klara sah ihnen nach. Paula Riener wurde also schon zu einem Satz, den Menschen benutzen konnten, ohne sie zu kennen. Das war in Freiburg eine gefährliche Zwischenstufe. Erst war man Person. Dann Beispiel. Danach Fall.
+
+Lilli schob das Handy in die Tasche und zog eine gefaltete Schürze aus ihrem Stoffbeutel. Klaras Schürze. Gewaschen. Nicht perfekt gebügelt. Lilli hatte vermutlich der Faltung misstraut und dann aufgegeben.
+
+"Danke", sagte Klara.
+
+"Ich habe sie nicht in die Nähe von Bechern gelegt."
+
+"Das war fast ein Gespräch über den Vorfall."
+
+"Nein. Das war Textilforensik."
+
+Klara nahm die Schürze. Der Stoff roch nach Waschmittel und ein wenig nach Minze. Lilli hatte die Kräuter richtig gelagert. Das sagte Klara nicht. Lob machte junge Menschen manchmal leichtsinnig.
+
+"Hettich hat dich befragt?" fragte sie stattdessen.
+
+Lilli sah sie an.
+
+"Das ist eine Frage über Verfahren", sagte Klara. "Nicht über Inhalt."
+
+"Du bist unmöglich."
+
+"Ich bemühe mich um Präzision."
+
+"Ja", sagte Lilli. "Sie hat mich befragt. Nils auch. Sehr ordentlich. Er hat sogar gefragt, ob ich eine Pause brauche. Ich habe gesagt, ich studiere Sozialpädagogik, ich brauche strukturelle Reformen, keine Pause."
+
+"Und?"
+
+"Dann hat er mir Wasser gebracht."
+
+"Vernünftig."
+
+Lilli zog die Knie an, ohne die Füße vor dem Regen zu retten. "Sie haben gefragt, warum ich Sprachnotizen mache. Als wäre das verdächtig."
+
+"Ist es das?"
+
+"Nein. Es ist Selbstschutz. Wenn du mir am Stand sagst: Minze, Melisse, Schilder, Schattenplane, Tütchen nachfüllen, Tarek nicht die Klammern geben, und dann noch irgendwas über die moralische Verwahrlosung von unbeschrifteten Körben, dann nehme ich es auf."
+
+"Ich sage selten moralische Verwahrlosung."
+
+"Du denkst es laut."
+
+Klara sah über den nassen Platz vor der Hochschule. Fahrräder glänzten. Ein Papierbecher lag im Rinnstein, bereits aufgeweicht und nutzlos. Manche Dinge verloren schneller Form als Schuld.
+
+"Und die Aufnahme?" fragte Klara.
+
+Lilli wurde still.
+
+Das war Antwort genug.
+
+"Nicht", sagte Klara.
+
+"Was?"
+
+"Wir reden nicht darüber."
+
+"Du hast gefragt."
+
+"Ich nehme es zurück."
+
+Lilli sah sie an, und für einen Moment war sie nicht die Studentin mit Birkenstocks und hochlinguistischen Kommentaren. Sie war Anfang zwanzig, müde, klug und erschrocken darüber, dass ein Satz, den sie aus Alltagsironie aufgenommen hatte, plötzlich einem Toten gehörte.
+
+"Ich weiß nicht, wer es sagt", sagte sie.
+
+Klara schwieg.
+
+"Ich weiß wirklich nicht, wer es sagt. Ich habe das Hettich gesagt. Mehrfach. Ich habe nicht hingesehen. Es war Lärm. Jemand stand vor mir. Nora war irgendwo beim Tisch, Paula auch, Tarek hinter mir, Kinder, Helfer. Ich weiß es nicht."
+
+"Dann ist das die Wahrheit."
+
+"Aber die Stimme..."
+
+Klara hob eine Hand.
+
+Lilli biss sich auf die Lippe.
+
+"Ich darf nicht", sagte Klara.
+
+"Ich sag ja nichts Konkretes."
+
+"Lilli."
+
+Lilli sah auf ihre nassen Füße. "Sie klang maximal elternbeirätlich kontrolliert."
+
+Der Regen wurde stärker.
+
+Klara sagte nichts. Nicht, weil sie nichts dachte. Weil Denken manchmal das Einzige war, was noch nicht verboten war.
+
+## Kapitel 18: Der Satz mit dem Punkt
+
+Der Münstermarkt roch nach Regen auf Stein.
+
+Das war ein guter Geruch, wenn niemand gestorben war. Nach einem Tod wirkte er wie eine Stadt, die den Boden wusch, ohne zu wissen, was genau schmutzig war.
+
+Klaras Stand war nur halb geöffnet. Eine Kiste Petersilie, zwei Töpfe Basilikum, ein Korb Schnittlauch. Keine Tütchen. Keine Blechdose. Keine Waage. Der Arbeitsplatz sah aus, als habe jemand aus einem Satz alle Verben gestrichen.
+
+Tarek stand an seiner Kühlung und tat so, als höre er nicht zu.
+
+Lilli stand neben Klaras Stand, nasse Birkenstocks, nasse Strickjacke, trockenes Gesicht. Das allein war verdächtig.
+
+Nils Ganter hielt ein Diensthandy in der Hand.
+
+"Frau Hettich hat gesagt", sagte er, "wir machen das einmal geordnet. Einmal. Keine Spekulationsrunde. Keine freien Theorien. Nur Standorte, Geräusche, Sichtlinien."
+
+"Ich habe gar nichts gesagt", sagte Klara.
+
+"Ich wollte vorbeugen."
+
+Tarek hob den Kopf. "Gute Polizeiarbeit."
+
+Nils ignorierte ihn mit sichtbarer Anstrengung.
+
+"Frau Neumann", sagte er, "Sie haben Ihre Aufnahme bereits vollständig übergeben. Wir spielen jetzt nur den kurzen Ausschnitt ab, den Sie selbst in Ihrer Aussage beschrieben haben. Danach sagen Sie nicht, was Sie glauben, sondern wo Sie standen und was Sie sehen konnten."
+
+"Ich kenne den Unterschied", sagte Lilli.
+
+"Ich sage es für alle."
+
+Klara sah ihn an.
+
+"Auch für mich", sagte Nils.
+
+Das war gut. Es nahm dem Satz die Spitze und ließ trotzdem die Grenze stehen.
+
+Nils tippte auf das Display.
+
+Zuerst war nur Markt zu hören. Stimmen, ein Lachen, ein metallisches Klacken, vielleicht eine Kiste, die abgestellt wurde. Dann Tareks Stimme, undeutlich, irgendetwas mit "Löffel". Lilli atmete auf der Aufnahme zu nah am Mikrofon. Im Hintergrund Nora oder Paula oder jemand ganz anderes: ein kurzes "Nein, dort nicht." Dann ein Kind. Dann Papier.
+
+Und dann, klein, fast verschluckt:
+
+"Der mit dem Punkt ist nicht für ihn."
+
+Nils stoppte.
+
+Der Markt um sie herum lief weiter. Eine Kundin fragte bei Vinz nach Aprikosen. Ein Tourist trat beinahe ins Bächle und wurde von seiner Begleitung mit einer Bewegung gerettet, die in Freiburg als Eheversprechen hätte durchgehen können. Über allem stand der Satz, leiser als ein Beweis und schwerer als ein Gerücht.
+
+"Noch einmal?" fragte Nils.
+
+"Nein", sagte Lilli sofort.
+
+Klara sah zu ihr.
+
+"Ich meine: Wenn es nicht nötig ist."
+
+"Der Ausschnitt ist gesichert", sagte Nils. "Wir quälen ihn nicht besser."
+
+Tarek stellte ein Glas Joghurt in die Kühlung. "Das ist ein Satz, den man vielen Menschen wünschen möchte."
+
+Klara ignorierte ihn diesmal nicht. Sie sah zum Bechertisch, der nicht mehr dort stand. Trotzdem stand er in ihrem Kopf: helle Tischplatte, Punkte, Servietten, Zuckerdöschen, Paulas Hände, Noras Ordner, Lillis Handy, Tareks Kühlbox im Schatten.
+
+"Wo standen Sie?" fragte Nils.
+
+Lilli zeigte. "Hier. Ein bisschen weiter links. Ich hatte die Minzekiste abgestellt. Vor mir stand dieser Helfer mit den weißen Bechern. Ich konnte den Tisch sehen, aber nicht die Hände. Also nicht alle. Immer nur Lücken."
+
+"Wer war in Ihrer Nähe?"
+
+"Tarek hinter mir. Klara weiter drüben. Paula am Tisch. Nora auch. Nicht die ganze Zeit. Kinder liefen durch. Ein Mann mit einer Kamera. Bärbel konnte ich sehen, aber nicht hören."
+
+"Die Stimme?"
+
+Lilli presste die Lippen zusammen. "Weiblich, glaube ich. Aber das habe ich gesagt. Es war nicht deutlich."
+
+"Klang sie wie Frau Bechtold?"
+
+Klara sah Nils an.
+
+Nils hob die Hand. "Ich frage nicht suggestiv. Ich frage, ob sie es ausschließen kann."
+
+Lilli schüttelte den Kopf. "Nein. Ich kann es nicht ausschließen."
+
+"Frau Riener?"
+
+"Auch nicht."
+
+"Frau Sauter, Frau Kopp, eine Helferin?"
+
+"Auch nicht."
+
+Nils nickte. Nicht zufrieden. Nur geordnet enttäuscht.
+
+Klara sah auf ihre Hände. Die linke wollte etwas sortieren, das nicht mehr da war.
+
+"Der mit dem Punkt", sagte sie.
+
+"Frau Faller", sagte Nils.
+
+"Ich wiederhole nur."
+
+"Bei Ihnen ist Wiederholen selten nur Wiederholen."
+
+Tarek sagte: "*Da het er jetzt net ganz Unrecht.*"
+
+Klara sah ihn nicht an. "Wenn jemand sagt 'der mit dem Punkt', dann gab es mehrere, und dieser eine war unterscheidbar."
+
+"Das wissen wir", sagte Nils.
+
+"Aber 'nicht für ihn' setzt voraus, dass jemand erwartet, dass er ihn bekommt."
+
+"Oder dass jemand ihn gerade nehmen wollte", sagte Lilli.
+
+Klara sah sie an.
+
+Lilli zog die Schultern hoch. "Was? Ich kann auch logisch sein, ohne dass es gleich generationenübergreifend bedrohlich wird."
+
+"Gut", sagte Klara.
+
+Lilli blinzelte. "Hast du gerade gut gesagt?"
+
+"Belasten Sie mich nicht mit meinen eigenen Fortschritten."
+
+Nils schrieb. "Also: Satz kann bedeuten, dass ein Becher nicht für eine männliche Person bestimmt war. Oder dass eine männliche Person ihn gerade nicht nehmen sollte. Oder dass 'er' sich auf etwas anderes bezieht."
+
+"Auf den Becher?" fragte Tarek.
+
+"Auf den Becher, auf Kaffee, auf Lenz, auf einen Helfer, auf irgendjemanden", sagte Nils. "Deshalb ist es kein Beweis."
+
+"Es ist ein Rohhinweis", sagte Klara.
+
+Nils sah sie an. "Frau Hettich hat genau dieses Wort benutzt."
+
+"Dann war es korrekt."
+
+"Sie wird sich freuen."
+
+"Nein", sagte Tarek. "Wird sie nicht."
+
+Lilli sah wieder zum unsichtbaren Bechertisch. "Ich dachte erst, es geht um Lenz. Also, nachher. Als ich es wieder gehört habe. Der mit dem Punkt ist nicht für ihn. Nicht für Lenz."
+
+"Das ist die naheliegende Deutung", sagte Klara.
+
+"Und die falsche?" fragte Lilli.
+
+Klara spürte, wie schnell ihr Kopf laufen wollte. Zu schnell. Becher, Punkt, Kaffee, Fenchel, Helene, Nora, Paula, Tareks Kühlung, Gregors Zeit. Eine Reihe entstand. Dann brach sie wieder auseinander, weil zu viele Teile nur aussahen, als gehörten sie zusammen.
+
+"Ich weiß es nicht", sagte sie.
+
+Das war schwerer als eine kluge Antwort.
+
+Nils notierte auch das.
+
+"Das müssen Sie nicht aufschreiben."
+
+"Doch", sagte Nils. "Das ist selten."
+
+Tarek schloss den Deckel seiner Kühlung. "Wenn er nicht für ihn war, warum hatte dann genau dieser Becher einen Punkt?"
+
+Niemand antwortete.
+
+Der Regen lief durch das Bächle, als habe Freiburg beschlossen, die Frage erst einmal mitzunehmen.
